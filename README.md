@@ -24,3 +24,13 @@ pnpm dev
 ```
 
 Abra [http://localhost:3000](http://localhost:3000) em seu navegador para ver o resultado.
+
+## Responsivo
+
+![Desk 1](https://github.com/mateusdourado/countries-list/blob/master/public/assets/desk1.jpeg)
+
+![Mob 1](https://github.com/mateusdourado/countries-list/blob/master/public/assets/mob1.jpg)
+
+![Desk 2](https://github.com/mateusdourado/countries-list/blob/master/public/assets/desk2.jpeg)
+
+![Mob 2](https://github.com/mateusdourado/countries-list/blob/master/public/assets/mob2.jpg)
